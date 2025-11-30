@@ -236,24 +236,7 @@ Visit `http://localhost:3000` and sign up!
 - S3 bucket policies
 - DynamoDB table policies
 
-## 💰 Cost Breakdown
 
-### Monthly Costs (Estimated)
-
-**Assumptions:** 10 users, 100GB storage, 1000 API calls/day
-
-| Service | Usage | Cost |
-|---------|-------|------|
-| S3 Storage | 100GB | $2.30 |
-| S3 Requests | 30K/month | $0.50 |
-| DynamoDB | 30K reads, 10K writes | $1.25 |
-| Lambda (API) | 30K invocations | $5.00 |
-| Lambda (AI) | 1K invocations | $10.00 |
-| Rekognition | 1K images | $10.00 |
-| Textract | 500 pages | $15.00 |
-| Comprehend | 1K requests | $5.00 |
-| API Gateway | 30K requests | $3.50 |
-| **Total** | | **~$52/month** |
 
 ### Cost Optimization
 - S3 Intelligent-Tiering (automatic)
