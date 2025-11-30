@@ -26,15 +26,15 @@
 
 ## Key Features Built with Kiro
 
-- ✅ Visual file management with thumbnails
-- ✅ AI-powered metadata extraction
-- ✅ Folder hierarchy with breadcrumb navigation
-- ✅ Secret Room with password protection
-- ✅ Trash/Bin system with restore
-- ✅ File sharing with expiration
-- ✅ Bulk operations
-- ✅ Storage analytics dashboard
-- ✅ Search functionality
+- Visual file management with thumbnails
+- AI-powered metadata extraction
+- Folder hierarchy with breadcrumb navigation
+- Secret Room with password protection
+- Trash/Bin system with restore
+- File sharing with expiration
+- Bulk operations
+- Storage analytics dashboard
+- Search functionality
 
 ## 🏗️ Architecture
 
