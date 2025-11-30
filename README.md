@@ -2,10 +2,6 @@
 
 > A production-grade, AI-powered cloud storage application built on AWS serverless architecture. Think Google Drive, but with automatic AI metadata extraction for your files.
 
-[![AWS](https://img.shields.io/badge/AWS-Serverless-orange)](https://aws.amazon.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.3-blue)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-18-61dafb)](https://react.dev/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## ✨ Features
 
@@ -164,20 +160,6 @@ npm test
 # See DEPLOYMENT_CHECKLIST.md
 ```
 
-## 🔐 Security
-
-- **Open Access**: No authentication required (simplified for demo)
-- **Encryption**: S3 SSE-S3, DynamoDB encryption at rest
-- **Network**: HTTPS/TLS 1.2+
-- **IAM**: Least privilege policies
-- **Isolation**: User-specific S3 prefixes
-
-## 📈 Performance
-
-- **API Latency**: <100ms (warm Lambda)
-- **Upload Speed**: Direct to S3 (no Lambda bottleneck)
-- **Scalability**: Auto-scales to millions of users
-- **Availability**: 99.9% (AWS SLA)
 
 
 
