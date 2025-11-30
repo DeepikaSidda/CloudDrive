@@ -92,13 +92,12 @@
 - Created deployment script
 - Configured environment variables
 - Set up custom domain
-- Implemented CI/CD pipeline
 
 **Result**: Live application on AWS Amplify
 
-## Week 4: Enhancements & Blog
+## Enhancements & Blog
 
-### Day 22-25: Additional Features
+### Additional Features
 - Storage analytics dashboard
 - Search functionality
 - File preview modal
