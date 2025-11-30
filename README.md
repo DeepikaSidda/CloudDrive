@@ -74,30 +74,7 @@ cp .env.example .env
 npm run dev
 ```
 
-Visit `http://localhost:3000` 🎉
 
-**Detailed setup:** [SETUP.md](SETUP.md)
-
-## 📚 Documentation
-
-**[📖 Complete Documentation Index](INDEX.md)** - Find all documentation organized by role and topic
-
-### Quick Links
-
-- **[GET_STARTED.md](GET_STARTED.md)** - Get up and running in 15 minutes
-- **[SETUP.md](SETUP.md)** - Complete setup and installation guide
-- **[PROJECT_SUMMARY.md](PROJECT_SUMMARY.md)** - Comprehensive project overview
-- **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - Common commands and operations
-- **[DEPLOYMENT_CHECKLIST.md](DEPLOYMENT_CHECKLIST.md)** - Production deployment checklist
-- **[VISUAL_GUIDE.md](VISUAL_GUIDE.md)** - Visual architecture and workflows
-- **[FILE_STRUCTURE.md](FILE_STRUCTURE.md)** - Complete file structure guide
-
-### Deep Dives
-
-- **[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)** - Architecture deep dive
-- **[docs/API.md](docs/API.md)** - API endpoint documentation
-- **[docs/FEATURES.md](docs/FEATURES.md)** - Feature documentation
-- **[docs/DEPLOYMENT.md](docs/DEPLOYMENT.md)** - Deployment strategies
 
 ## 🎯 Use Cases
 
@@ -107,18 +84,7 @@ Visit `http://localhost:3000` 🎉
 - **Team Collaboration**: Share files with team members (Phase 2)
 - **Content Management**: Organize media files with AI-generated metadata
 
-## 💰 Cost Breakdown
 
-**Estimated monthly cost for 10 users, 100GB storage, 1000 API calls/day:**
-
-| Service | Cost |
-|---------|------|
-| S3 Storage + Requests | $2.80 |
-| DynamoDB | $1.25 |
-| Lambda | $15.00 |
-| AI Services (Rekognition, Textract, Comprehend) | $30.00 |
-| API Gateway | $3.50 |
-| **Total** | **~$52/month** |
 
 ## 🛠️ Tech Stack
 
@@ -213,52 +179,9 @@ npm test
 - **Scalability**: Auto-scales to millions of users
 - **Availability**: 99.9% (AWS SLA)
 
-## 🚧 Roadmap
 
-### Phase 2 (Planned)
-- [ ] Full-text search
-- [ ] File sharing with expiration
-- [ ] File preview (PDF, images)
-- [ ] Batch operations
-- [ ] Storage quota tracking
 
-### Phase 3 (Future)
-- [ ] Real-time collaboration
-- [ ] Mobile app (React Native)
-- [ ] Advanced AI features
-- [ ] Webhooks and integrations
 
-## 🤝 Contributing
-
-Contributions are welcome! Please read our contributing guidelines first.
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-- **Documentation**: See [docs/](docs/) folder
-- **Issues**: Open an issue on GitHub
-- **AWS Support**: https://aws.amazon.com/support/
-
-## 🙏 Acknowledgments
-
-- Built with AWS serverless technologies
-- Inspired by Google Drive
-- UI components from Tailwind CSS
-- Icons from React Icons
-
-## 📞 Contact
-
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **Website**: https://yourwebsite.com
 
 ---
 
