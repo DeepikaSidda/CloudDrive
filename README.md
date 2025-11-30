@@ -145,21 +145,6 @@ smart-cloud-drive/
     └── ...
 ```
 
-## 🧪 Testing
-
-```bash
-# Run frontend tests
-cd frontend
-npm test
-
-# Run backend tests
-cd backend/api
-npm test
-
-# Manual testing checklist
-# See DEPLOYMENT_CHECKLIST.md
-```
-
 
 
 
@@ -167,6 +152,6 @@ npm test
 
 ---
 
-**Built with ❤️ using AWS Serverless Technologies**
+**Built with ❤️ using Kiro**
 
 ⭐ Star this repo if you find it helpful!
