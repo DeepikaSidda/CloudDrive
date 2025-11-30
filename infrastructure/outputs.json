@@ -1,0 +1,9 @@
+{
+  "SmartCloudDriveStack": {
+    "TableName": "CloudDriveItems",
+    "ApiUrl": "https://qcmul73rkf.execute-api.us-east-1.amazonaws.com/prod/",
+    "BucketName": "smart-cloud-drive-414691912352",
+    "Region": "us-east-1",
+    "CloudDriveApiEndpoint49912314": "https://qcmul73rkf.execute-api.us-east-1.amazonaws.com/prod/"
+  }
+}
