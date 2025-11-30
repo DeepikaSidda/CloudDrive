@@ -325,60 +325,10 @@ All endpoints require `Authorization: Bearer {jwt-token}` header.
 - Loading states
 - Empty states
 
-## 🧪 Testing Checklist
 
-- [ ] User sign-up and email verification
-- [ ] User sign-in
-- [ ] Upload image file
-- [ ] Upload PDF file
-- [ ] Upload text file
-- [ ] Create folder
-- [ ] Navigate into folder
-- [ ] Upload file in subfolder
-- [ ] Rename file
-- [ ] Rename folder
-- [ ] Move file to different folder
-- [ ] Delete file
-- [ ] Delete folder (with contents)
-- [ ] Download file
-- [ ] View AI tags on image
-- [ ] View AI tags on document
-- [ ] Switch between grid and list view
-- [ ] Sign out
-- [ ] Sign in again (persistence)
 
-## 📚 Documentation
 
-- **[README.md](README.md)**: Project overview and introduction
-- **[SETUP.md](SETUP.md)**: Complete setup and installation guide
-- **[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)**: Architecture deep dive
-- **[docs/ARCHITECTURE_DIAGRAM.md](docs/ARCHITECTURE_DIAGRAM.md)**: Visual diagrams
-- **[docs/API.md](docs/API.md)**: API endpoint documentation
-- **[docs/DEPLOYMENT.md](docs/DEPLOYMENT.md)**: Deployment guide
-- **[docs/FEATURES.md](docs/FEATURES.md)**: Feature documentation
 
-## 🚧 Future Enhancements
-
-### Phase 2 (Recommended)
-- [ ] Full-text search across files
-- [ ] Search by AI metadata
-- [ ] File sharing with expiration
-- [ ] Public/private links
-- [ ] File preview (PDF, images)
-- [ ] Batch operations (multi-select)
-- [ ] Storage quota tracking
-- [ ] File versioning
-- [ ] Trash/recycle bin
-
-### Phase 3 (Advanced)
-- [ ] Real-time collaboration
-- [ ] File comments
-- [ ] Activity feed
-- [ ] Mobile app (React Native)
-- [ ] Offline mode
-- [ ] Advanced AI features (face recognition, translation)
-- [ ] Custom labels and tags
-- [ ] Webhooks for integrations
 
 ## 🛠️ Maintenance
 
@@ -412,13 +362,6 @@ All endpoints require `Authorization: Bearer {jwt-token}` header.
 9. **Code Organization**: Modular, reusable components
 10. **Testing**: Manual testing checklist provided
 
-## 📞 Support Resources
-
-- **AWS Documentation**: https://docs.aws.amazon.com/
-- **CDK Documentation**: https://docs.aws.amazon.com/cdk/
-- **Amplify Documentation**: https://docs.amplify.aws/
-- **React Documentation**: https://react.dev/
-- **Tailwind CSS**: https://tailwindcss.com/docs
 
 ## 🎓 Learning Outcomes
 
