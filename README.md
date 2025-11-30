@@ -24,6 +24,18 @@
 - 📊 **Monitored**: CloudWatch logs and metrics
 - 🚀 **Fast**: Sub-second API responses, direct S3 uploads
 
+## Key Features Built with Kiro
+
+- ✅ Visual file management with thumbnails
+- ✅ AI-powered metadata extraction
+- ✅ Folder hierarchy with breadcrumb navigation
+- ✅ Secret Room with password protection
+- ✅ Trash/Bin system with restore
+- ✅ File sharing with expiration
+- ✅ Bulk operations
+- ✅ Storage analytics dashboard
+- ✅ Search functionality
+
 ## 🏗️ Architecture
 
 ```
