@@ -6,23 +6,23 @@
 ## ✨ Features
 
 ### Core Functionality
-- 📁 **File Management**: Upload, download, organize files and folders
-- 🔍 **Smart Search**: AI-powered metadata extraction for easy discovery
-- 👁️ **Multiple Views**: Grid and list view modes
-- 📱 **Responsive**: Works on desktop, tablet, and mobile
+- **File Management**: Upload, download, organize files and folders
+- **Smart Search**: AI-powered metadata extraction for easy discovery
+- **Multiple Views**: Grid and list view modes
+- **Responsive**: Works on desktop, tablet, and mobile
 
 ### AI-Powered Intelligence
-- 🖼️ **Image Analysis**: Automatic object and scene detection (Amazon Rekognition)
-- 📄 **Document Processing**: Text extraction from PDFs (Amazon Textract)
-- 💬 **Text Analysis**: Keyword and entity extraction (Amazon Comprehend)
-- 🏷️ **Auto-Tagging**: Automatic labels and keywords for all files
+- **Image Analysis**: Automatic object and scene detection (Amazon Rekognition)
+- **Document Processing**: Text extraction from PDFs (Amazon Textract)
+- **Text Analysis**: Keyword and entity extraction (Amazon Comprehend)
+- **Auto-Tagging**: Automatic labels and keywords for all files
 
 ### Technical Excellence
-- ⚡ **Serverless**: Auto-scaling, no server management
-- 💰 **Cost-Effective**: Pay only for what you use (~$52/month for 10 users)
-- 🔒 **Secure**: Encryption at rest and in transit, IAM policies
-- 📊 **Monitored**: CloudWatch logs and metrics
-- 🚀 **Fast**: Sub-second API responses, direct S3 uploads
+- **Serverless**: Auto-scaling, no server management
+- **Cost-Effective**: Pay only for what you use (~$52/month for 10 users)
+- **Secure**: Encryption at rest and in transit, IAM policies
+- **Monitored**: CloudWatch logs and metrics
+- **Fast**: Sub-second API responses, direct S3 uploads
 
 ## Key Features Built with Kiro
 
