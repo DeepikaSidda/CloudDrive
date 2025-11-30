@@ -365,7 +365,6 @@ By building this project, you've learned:
 You now have a production-grade, AI-powered cloud storage application that:
 
 - ✅ Scales automatically from 1 to millions of users
-- ✅ Costs ~$52/month for 10 users
 - ✅ Provides Google Drive-like functionality
 - ✅ Includes AI-powered metadata extraction
 - ✅ Is secure, monitored, and maintainable
