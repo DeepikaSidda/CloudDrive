@@ -76,11 +76,6 @@ Kiro didn't write all the code for me - I still made architectural decisions, re
 
 The combination of AWS serverless services and Kiro AI as a development partner made it possible for one developer to build something that would have required a team just a few years ago.
 
-## Learn More
-
-- **Blog Post**: See `AWS_BUILDER_BLOG.md` for the full story
-- **Documentation**: Check the `docs/` folder for architecture details
-- **Live Demo**: https://main.d3gol7f2i3jiv3.amplifyapp.com
 
 ---
 
