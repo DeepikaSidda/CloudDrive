@@ -1,6 +1,6 @@
 # Smart Cloud Drive 🚀
 
-> A production-grade, AI-powered cloud storage application built on AWS serverless architecture. Think Google Drive, but with automatic AI metadata extraction for your files.
+> A Smart Cloud Drive that turns Amazon S3 into a visual, user-friendly file management system. It enables intelligent search and file discovery by automatically generating previews and metadata for stored content.
 
 You can check out a quick prototype/demo here: https://d1r3w63amk2v4x.cloudfront.net/
 ## ✨ Features
