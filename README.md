@@ -49,14 +49,14 @@ User → React Frontend → API Gateway → Lambda → DynamoDB + S3
 ```
 
 **Full architecture diagram:** [docs/ARCHITECTURE_DIAGRAM.md](docs/ARCHITECTURE_DIAGRAM.md)
-## 📸 App Screenshots Gallery
+
 
 ## 📸 App Screenshots Gallery
 
 | | | |
 |---|---|---|
 | <a href="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/mainpage.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/mainpage.png" width="400"></a> | <a href="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/adahboard.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/adahboard.png" width="400"></a> | <a href="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/s3.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/s3.png" width="400"></a> |
-| <a href="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/tags.png"><img src="https://raw.githubusercontentusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/tags.png" width="400"></a> | <a href="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/features.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/features.png" width="400"></a> | <a href="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/kiro-banner.jpg"><img src="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/kiro-banner.jpg" width="400"></a> |
+| <a href="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/tags.png"><img src="https://raw.githubusercontentusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/tags.png" width="400"></a> | <a href="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/features.png"><img src="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/features.png" width="400"></a> | <a href="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/tags.jpg"><img src="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/tags.jpg" width="400"></a> |
 
 
 
