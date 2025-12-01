@@ -53,16 +53,16 @@ User → React Frontend → API Gateway → Lambda → DynamoDB + S3
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/mainpage.png">
-    <img src="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/mainpage.png" width="250" />
+    <img src="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/mainpage.png" width="350" />
   </a>
   <a href="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/adahboard.png">
-    <img src="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/adahboard.png" width="250" />
+    <img src="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/adahboard.png" width="350" />
   </a>
   <a href="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/s3.png">
-    <img src="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/s3.png" width="250" />
+    <img src="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/s3.png" width="350" />
   </a>
   <a href="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/tags.png">
-    <img src="https://raw.githubusercontentusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/tags.png" width="250" /> 
+    <img src="https://raw.githubusercontentusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/tags.png" width="350" /> 
   </a>
 </p>
 
