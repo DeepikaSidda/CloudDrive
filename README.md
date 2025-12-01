@@ -64,6 +64,9 @@ User → React Frontend → API Gateway → Lambda → DynamoDB + S3
   <a href="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/tags.png">
     <img src="https://raw.githubusercontentusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/tags.png" width="350" /> 
   </a>
+  <a href="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/features.png">
+    <img src="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/features.png" width="350" />
+  </a>
 </p>
 
 
