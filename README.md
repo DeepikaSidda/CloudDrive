@@ -2,7 +2,7 @@
 
 > A production-grade, AI-powered cloud storage application built on AWS serverless architecture. Think Google Drive, but with automatic AI metadata extraction for your files.
 
-
+You can check out a quick prototype/demo here: https://d1r3w63amk2v4x.cloudfront.net/
 ## ✨ Features
 
 ### Core Functionality
