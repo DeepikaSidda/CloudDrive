@@ -3,8 +3,11 @@
 > A Smart Cloud Drive that turns Amazon S3 into a visual, user-friendly file management system. It enables intelligent search and file discovery by automatically generating previews and metadata for stored content.
 
 You can check out a quick prototype/demo here: https://d1r3w63amk2v4x.cloudfront.net/
-<a href="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/kiro-banner.jpg"><img src="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/kiro-banner.jpg" width="400"></a>
-
+<p align="center">
+  <a href="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/kiro-banner.jpg">
+    <img src="https://raw.githubusercontent.com/DeepikaSidda/CloudDrive/main/Screenshots/kiro-banner.jpg" width="800">
+  </a>
+</p>
 
 ## ✨ Features
 
