@@ -25,7 +25,7 @@ You can check out a quick prototype/demo here: https://d1r3w63amk2v4x.cloudfront
 
 ### Technical Excellence
 - **Serverless**: Auto-scaling, no server management
-- **Cost-Effective**: Pay only for what you use (~$52/month for 10 users)
+- **Cost-Effective**: Pay only for what you use 
 - **Secure**: Encryption at rest and in transit, IAM policies
 - **Monitored**: CloudWatch logs and metrics
 - **Fast**: Sub-second API responses, direct S3 uploads
